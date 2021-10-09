@@ -1,0 +1,6 @@
+C:\Users\apisi\source\repos\MyUnitTest\bin\Debug\MyUnitTest.dll
+C:\Users\apisi\source\repos\MyUnitTest\bin\Debug\MyUnitTest.pdb
+C:\Users\apisi\source\repos\MyUnitTest\obj\Debug\MyUnitTest.csprojAssemblyReference.cache
+C:\Users\apisi\source\repos\MyUnitTest\obj\Debug\MyUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\apisi\source\repos\MyUnitTest\obj\Debug\MyUnitTest.dll
+C:\Users\apisi\source\repos\MyUnitTest\obj\Debug\MyUnitTest.pdb
